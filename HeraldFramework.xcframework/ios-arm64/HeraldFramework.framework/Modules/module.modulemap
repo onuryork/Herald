@@ -1,0 +1,11 @@
+framework module HeraldFramework {
+  umbrella header "HeraldFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module HeraldFramework.Swift {
+    header "HeraldFramework-Swift.h"
+    requires objc
+}
