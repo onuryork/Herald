@@ -18,51 +18,51 @@
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		JsRidyoFtcCQwK+58P6zJBi/oD0=
+		Nm6754EEhaXKfflfqLXjPR5OMEo=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1izyZ4GljWaaEyXYm68p9xfJ2eI=
+		vTYN535KTvk6+0RcrATcrZkRoL0=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+SKIMapoZVOsH2OAAv7+cDSK8pQ=
+		vGGCyFrz2rGCSKX2fmxbgmE0doM=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		JsRidyoFtcCQwK+58P6zJBi/oD0=
+		Nm6754EEhaXKfflfqLXjPR5OMEo=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		1izyZ4GljWaaEyXYm68p9xfJ2eI=
+		vTYN535KTvk6+0RcrATcrZkRoL0=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		+SKIMapoZVOsH2OAAv7+cDSK8pQ=
+		vGGCyFrz2rGCSKX2fmxbgmE0doM=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		qu0CuiGFq02oaq+6GqKtZwEzGFA=
+		jmdhH3zjuiBCQk4+mzjE3kInCX8=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WhKAnVS5XVyM3bDlm+QfsOSj/j4=
+		F3g2aEUXrK1cR6xVBDDdzNplnhY=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WvxHdamZRkktQs2beKIXp4yMfd4=
+		+ydLLSBqULCvsBLzB3Pv3a+LA1U=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		qu0CuiGFq02oaq+6GqKtZwEzGFA=
+		jmdhH3zjuiBCQk4+mzjE3kInCX8=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		WhKAnVS5XVyM3bDlm+QfsOSj/j4=
+		F3g2aEUXrK1cR6xVBDDdzNplnhY=
 		</data>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		WvxHdamZRkktQs2beKIXp4yMfd4=
+		+ydLLSBqULCvsBLzB3Pv3a+LA1U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,84 +89,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NGC3XFwnwXoeKhJp7j8yi0uE0plsbWIDGGmM1+WvyQI=
+			KbuJV5b/WZeciHRmpamyrziHMFVrL76wI9W4S9MWwmY=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMLca/opmPeJBJoVpwX5fd2e9PNZdCJtR66H7ZqZIxc=
+			R6hyx9SWxWB5GOV3MjQci3ugU3CGsHCCJ6EsGc1Y+Rs=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			avdb2S0GMdWom2GH+ZYdTWrCL+AR37bdzZwthJSp9WQ=
+			XsMliX5Mb5O+orFScK2hAtpT/o4yfpGsB7sqa4QhTvM=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NGC3XFwnwXoeKhJp7j8yi0uE0plsbWIDGGmM1+WvyQI=
+			KbuJV5b/WZeciHRmpamyrziHMFVrL76wI9W4S9MWwmY=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMLca/opmPeJBJoVpwX5fd2e9PNZdCJtR66H7ZqZIxc=
+			R6hyx9SWxWB5GOV3MjQci3ugU3CGsHCCJ6EsGc1Y+Rs=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			avdb2S0GMdWom2GH+ZYdTWrCL+AR37bdzZwthJSp9WQ=
+			XsMliX5Mb5O+orFScK2hAtpT/o4yfpGsB7sqa4QhTvM=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8cUZsVwRKxeXvFEa1HXfRoUVuY70ooHJhS5gBb8FfDA=
+			q30qwL+1AotGOLgZHkjIr0WV7thnlMIVqRn3BqfX++Q=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9V92vd0Jaz9DXhSJ6T6Aq5/zlTVEynmV6rPhAn3NR40=
+			rZ3BGThH4eBi45Nq9SFfuqXx4P8Se0lNH7h8UAdo6lo=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f2wIUixZLjXN1XltT4Evlg0NxPcrmEOcc2+KTvt2WLs=
+			oG1Hl7GHJG/m76Vz6REkZ6oW6PVM9A8rCdXgKEC2nSE=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8cUZsVwRKxeXvFEa1HXfRoUVuY70ooHJhS5gBb8FfDA=
+			q30qwL+1AotGOLgZHkjIr0WV7thnlMIVqRn3BqfX++Q=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9V92vd0Jaz9DXhSJ6T6Aq5/zlTVEynmV6rPhAn3NR40=
+			rZ3BGThH4eBi45Nq9SFfuqXx4P8Se0lNH7h8UAdo6lo=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f2wIUixZLjXN1XltT4Evlg0NxPcrmEOcc2+KTvt2WLs=
+			oG1Hl7GHJG/m76Vz6REkZ6oW6PVM9A8rCdXgKEC2nSE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
