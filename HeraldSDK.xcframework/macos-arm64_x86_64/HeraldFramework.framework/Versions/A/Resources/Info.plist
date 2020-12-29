@@ -6,6 +6,8 @@
 	<string>20B50</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>HeraldSDK</string>
 	<key>CFBundleExecutable</key>
 	<string>HeraldFramework</string>
 	<key>CFBundleIdentifier</key>
