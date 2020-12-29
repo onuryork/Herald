@@ -7,7 +7,6 @@ import Foundation
 import Swift
 public enum Environment : Swift.String {
   case development
-  case staging
   case production
   public typealias RawValue = Swift.String
   public init?(rawValue: Swift.String)
@@ -27,7 +26,7 @@ public enum HeraldError : Swift.Error {
   public func hash(into hasher: inout Swift.Hasher)
 }
 @_hasMissingDesignatedInitializers public class Herald {
-  public static func push(deviceID: Swift.String, clientToken: Foundation.UUID, on environemt: HeraldSDK.Environment = .production) throws
+  public static func push(deviceID: Swift.String?, token: Foundation.UUID?, on environemt: HeraldSDK.Environment = .production) throws
   @objc deinit
 }
 extension HeraldSDK.Environment : Swift.Equatable {}
