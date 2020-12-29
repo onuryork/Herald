@@ -4,7 +4,31 @@
 import Foundation
 @_exported import HeraldSDK
 import Swift
+public enum Environment : Swift.String {
+  case develop
+  case staging
+  case production
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum HeraldError : Swift.Error {
+  case invalidToken
+  case invalidDeviceID
+  public static func == (a: HeraldSDK.HeraldError, b: HeraldSDK.HeraldError) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
 @_hasMissingDesignatedInitializers public class Herald {
-  public static func printSomething()
+  public static func register(deviceID: Swift.String, using token: Foundation.UUID, on environemt: HeraldSDK.Environment = .production) throws
   @objc deinit
 }
+extension HeraldSDK.Environment : Swift.Equatable {}
+extension HeraldSDK.Environment : Swift.Hashable {}
+extension HeraldSDK.Environment : Swift.RawRepresentable {}
+extension HeraldSDK.HeraldError : Swift.Equatable {}
+extension HeraldSDK.HeraldError : Swift.Hashable {}

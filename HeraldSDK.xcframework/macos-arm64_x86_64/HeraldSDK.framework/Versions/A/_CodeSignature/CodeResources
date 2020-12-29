@@ -36,14 +36,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xK1Vmiax/NZf0RG88LdaC/FA6F9nsld3F/BFetOiNyw=
+			b4Q38IVSRjLjTkk/kfKAe2OhRwenCpHIeIOYbtwoAws=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JT0IqgCLqeHeZRQfBHtmMcreOLGO/2PFTWqmYVga9Lk=
+			krMhLvtW8KKmAPl51Dtz+LrFBv+ioYdqcE8udIvbcI8=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/arm64.swiftdoc</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xK1Vmiax/NZf0RG88LdaC/FA6F9nsld3F/BFetOiNyw=
+			b4Q38IVSRjLjTkk/kfKAe2OhRwenCpHIeIOYbtwoAws=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JT0IqgCLqeHeZRQfBHtmMcreOLGO/2PFTWqmYVga9Lk=
+			krMhLvtW8KKmAPl51Dtz+LrFBv+ioYdqcE8udIvbcI8=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dILlSwQDvToOnQtdjZNV9VSIMLBtu2HrKsZQzZ3MsBE=
+			dMEDpSsNxbDG/z+FZYoi1DVUgAqVnjF3AbG0tvepduA=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OuV698/sm9Z20QPIX7+iEr/nXrFk0vGNKK2iSawTfIA=
+			11yIa3mKYaDz/7bH5NeijPbRvyVN9MrJMdWkjdxsGbA=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -99,14 +99,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dILlSwQDvToOnQtdjZNV9VSIMLBtu2HrKsZQzZ3MsBE=
+			dMEDpSsNxbDG/z+FZYoi1DVUgAqVnjF3AbG0tvepduA=
 			</data>
 		</dict>
 		<key>Modules/HeraldSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OuV698/sm9Z20QPIX7+iEr/nXrFk0vGNKK2iSawTfIA=
+			11yIa3mKYaDz/7bH5NeijPbRvyVN9MrJMdWkjdxsGbA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
